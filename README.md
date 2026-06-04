@@ -29,7 +29,7 @@ Profissional versátil que transita entre tecnologia, contabilidade e saúde dig
 
 ### Contato
 - 📍 João Pessoa, Paraíba, Brasil
-- 📧 Email: [insira seu email](mailto:seuemail@example.com)
+- 📧 [Email](Luizhdapontes@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/lhenriqueapontes/)
 
 ### Aviso Ético
