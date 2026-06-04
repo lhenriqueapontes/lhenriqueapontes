@@ -28,10 +28,10 @@ Meu GitHub é organizado como um portfólio técnico: projetos funcionais, dados
 
 | Nome profissional | Repositório atual | Foco |
 |---|---|---|
-| AutoFin-AI | [luiz](https://github.com/lhenriqueapontes/luiz) | Workflow de revisão financeira com saída JSON estruturada. |
-| AgentOps Strategy Lab | [JOKENPO](https://github.com/lhenriqueapontes/JOKENPO) | Simulação de estratégias autônomas e avaliação de agentes. |
-| SQL Healthcare Analytics Lab | [SQL-SPMedGroup](https://github.com/lhenriqueapontes/SQL-SPMedGroup) | SQL, modelagem relacional e analytics em cenário de saúde. |
-| Synthetic Retina Classification Lab | [diabetic-retinopathy-classifier](https://github.com/lhenriqueapontes/diabetic-retinopathy-classifier) | Classificação de imagens sintéticas, baseline e métricas. |
+| AutoFin-AI | [autofin-ai](https://github.com/lhenriqueapontes/autofin-ai) | Workflow de revisão financeira com saída JSON estruturada. |
+| AgentOps Strategy Lab | [agentops-strategy-lab](https://github.com/lhenriqueapontes/agentops-strategy-lab) | Simulação de estratégias autônomas e avaliação de agentes. |
+| SQL Healthcare Analytics Lab | [sql-healthcare-analytics-lab](https://github.com/lhenriqueapontes/sql-healthcare-analytics-lab) | SQL, modelagem relacional e analytics em cenário de saúde. |
+| Synthetic Retina Classification Lab | [synthetic-retina-classification-lab](https://github.com/lhenriqueapontes/synthetic-retina-classification-lab) | Classificação de imagens sintéticas, baseline e métricas. |
 
 ## Áreas do portfólio
 
@@ -55,13 +55,13 @@ Meu GitHub é organizado como um portfólio técnico: projetos funcionais, dados
 - [machine-learning-teaching-labs](https://github.com/lhenriqueapontes/machine-learning-teaching-labs)
 - [medical-ai-screening-pipeline](https://github.com/lhenriqueapontes/medical-ai-screening-pipeline)
 - [retinal-image-classification-demo](https://github.com/lhenriqueapontes/retinal-image-classification-demo)
-- [diabetic-retinopathy-classifier](https://github.com/lhenriqueapontes/diabetic-retinopathy-classifier)
+- [synthetic-retina-classification-lab](https://github.com/lhenriqueapontes/synthetic-retina-classification-lab)
 
 ### Automação e agentes
 
 - [rpa-document-processing-demo](https://github.com/lhenriqueapontes/rpa-document-processing-demo)
-- [luiz](https://github.com/lhenriqueapontes/luiz) — AutoFin-AI
-- [JOKENPO](https://github.com/lhenriqueapontes/JOKENPO) — AgentOps Strategy Lab
+- [autofin-ai](https://github.com/lhenriqueapontes/autofin-ai) — AutoFin-AI
+- [agentops-strategy-lab](https://github.com/lhenriqueapontes/agentops-strategy-lab) — AgentOps Strategy Lab
 
 ## Contato
 
@@ -70,4 +70,4 @@ Meu GitHub é organizado como um portfólio técnico: projetos funcionais, dados
 
 ## Nota
 
-Os projetos públicos usam dados sintéticos, datasets públicos ou exemplos didáticos. Materiais sensíveis, bases privadas e códigos proprietários não são publicados neste perfil.
+Projetos públicos com dados sintéticos, datasets públicos ou exemplos didáticos.
