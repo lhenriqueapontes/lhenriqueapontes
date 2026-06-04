@@ -1,30 +1,39 @@
 # Luiz Henrique de Azevedo Pontes
 
-**Mestre em Informática | Python, Dados, IA, BI, ERP, Contabilidade e Saúde Digital**  
+**Mestre em Informática | Python, IA/Dados, BI, ERP, Auditoria e Saúde Digital**  
 João Pessoa, PB · [LinkedIn](https://www.linkedin.com/in/lhenriqueapontes/) · [GitHub](https://github.com/lhenriqueapontes) · lhenriqueapontes@outlook.com
 
 ## Sobre
 
-Sou profissional multidisciplinar com base em Informática, Ciências Contábeis e Análise e Desenvolvimento de Sistemas. Meu portfólio conecta Python, dados, automação, BI, auditoria, ERP, machine learning, visão computacional e ensino técnico.
+Profissional multidisciplinar em tecnologia, dados e negócios, com Mestrado em Informática, formação em Ciências Contábeis e Análise e Desenvolvimento de Sistemas. Atuo na interseção entre **Python, ciência de dados, automação, BI, auditoria, ERP contábil, machine learning e saúde digital**.
 
-Este GitHub é organizado como um laboratório profissional: cada repositório tem foco prático, dados sintéticos ou públicos, instruções de execução e saídas reproduzíveis.
+Meu GitHub é organizado como um portfólio técnico: projetos funcionais, dados sintéticos ou públicos, scripts executáveis, documentação objetiva e saídas reproduzíveis.
 
-## Stack
+## Stack principal
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `SQL` · `Jupyter` · `Matplotlib` · `Power BI` · `Excel` · `Git/GitHub` · `Data Quality` · `Machine Learning` · `Computer Vision` · `ERP` · `Auditoria de Dados`
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `SQL` · `Jupyter` · `Matplotlib` · `Power BI` · `Excel` · `Git/GitHub` · `Data Quality` · `Machine Learning` · `Computer Vision` · `ERP` · `Auditoria de Dados` · `RPA`
 
-## Projetos principais para abrir primeiro
+## Projetos principais
 
-| Projeto | Tema | O que executa |
+| Projeto | Área | O que executa |
 |---|---|---|
-| [accounting-audit-automation-python](https://github.com/lhenriqueapontes/accounting-audit-automation-python) | Auditoria + Python | Gera diario contabil sintetico, roda checks e exporta relatorios. |
-| [erp-support-analytics-dashboard](https://github.com/lhenriqueapontes/erp-support-analytics-dashboard) | ERP + BI | Gera tickets sinteticos, calcula SLA e KPIs de suporte. |
+| [accounting-audit-automation-python](https://github.com/lhenriqueapontes/accounting-audit-automation-python) | Auditoria + Python | Gera diário contábil sintético, executa checks e exporta relatórios. |
+| [erp-support-analytics-dashboard](https://github.com/lhenriqueapontes/erp-support-analytics-dashboard) | ERP + BI | Gera tickets sintéticos, calcula SLA e KPIs de suporte. |
 | [financial-bi-controladoria](https://github.com/lhenriqueapontes/financial-bi-controladoria) | Controladoria | Gera base financeira, calcula margens, EBITDA e fluxo de caixa. |
-| [data-quality-governance-toolkit](https://github.com/lhenriqueapontes/data-quality-governance-toolkit) | Governanca de dados | Valida nulos, duplicidades, dominios e outliers. |
-| [sql-business-analytics-cases](https://github.com/lhenriqueapontes/sql-business-analytics-cases) | SQL Analytics | Cria banco SQLite sintetico e roda consultas de negocio. |
-| [machine-learning-teaching-labs](https://github.com/lhenriqueapontes/machine-learning-teaching-labs) | Ensino de ML | Laboratorios simples com scikit-learn e metricas. |
+| [data-quality-governance-toolkit](https://github.com/lhenriqueapontes/data-quality-governance-toolkit) | Governança de Dados | Valida nulos, duplicidades, domínios e outliers. |
+| [sql-business-analytics-cases](https://github.com/lhenriqueapontes/sql-business-analytics-cases) | SQL Analytics | Cria banco SQLite sintético e roda consultas de negócio. |
+| [machine-learning-teaching-labs](https://github.com/lhenriqueapontes/machine-learning-teaching-labs) | Ensino de ML | Laboratórios simples com scikit-learn e métricas. |
 
-## Ecossistema do portfólio
+## Projetos modernizados
+
+| Nome profissional | Repositório atual | Foco |
+|---|---|---|
+| AutoFin-AI | [luiz](https://github.com/lhenriqueapontes/luiz) | Workflow de revisão financeira com saída JSON estruturada. |
+| AgentOps Strategy Lab | [JOKENPO](https://github.com/lhenriqueapontes/JOKENPO) | Simulação de estratégias autônomas e avaliação de agentes. |
+| SQL Healthcare Analytics Lab | [SQL-SPMedGroup](https://github.com/lhenriqueapontes/SQL-SPMedGroup) | SQL, modelagem relacional e analytics em cenário de saúde. |
+| Synthetic Retina Classification Lab | [diabetic-retinopathy-classifier](https://github.com/lhenriqueapontes/diabetic-retinopathy-classifier) | Classificação de imagens sintéticas, baseline e métricas. |
+
+## Áreas do portfólio
 
 ### Contabilidade, auditoria, BI e ERP
 
@@ -34,33 +43,25 @@ Este GitHub é organizado como um laboratório profissional: cada repositório t
 - [erp-support-analytics-dashboard](https://github.com/lhenriqueapontes/erp-support-analytics-dashboard)
 - [public-sector-data-analysis](https://github.com/lhenriqueapontes/public-sector-data-analysis)
 
-### Dados, SQL, governanca e avaliacao de modelos
+### Dados, SQL e governança
 
 - [portfolio-ai-data-accounting](https://github.com/lhenriqueapontes/portfolio-ai-data-accounting)
 - [data-quality-governance-toolkit](https://github.com/lhenriqueapontes/data-quality-governance-toolkit)
 - [sql-business-analytics-cases](https://github.com/lhenriqueapontes/sql-business-analytics-cases)
 - [model-evaluation-and-xai-toolkit](https://github.com/lhenriqueapontes/model-evaluation-and-xai-toolkit)
 
-### Machine learning, ensino, visao computacional e saude digital
+### IA, ensino, visão computacional e saúde digital
 
 - [machine-learning-teaching-labs](https://github.com/lhenriqueapontes/machine-learning-teaching-labs)
 - [medical-ai-screening-pipeline](https://github.com/lhenriqueapontes/medical-ai-screening-pipeline)
 - [retinal-image-classification-demo](https://github.com/lhenriqueapontes/retinal-image-classification-demo)
 - [diabetic-retinopathy-classifier](https://github.com/lhenriqueapontes/diabetic-retinopathy-classifier)
 
-### Automacao, agentes e projetos antigos modernizados
+### Automação e agentes
 
 - [rpa-document-processing-demo](https://github.com/lhenriqueapontes/rpa-document-processing-demo)
-- [JOKENPO](https://github.com/lhenriqueapontes/JOKENPO)
-- [luiz](https://github.com/lhenriqueapontes/luiz)
-- [SQL-SPMedGroup](https://github.com/lhenriqueapontes/SQL-SPMedGroup)
-
-## Como este perfil foi organizado
-
-1. Projetos de empregabilidade imediata: auditoria, BI, ERP, SQL e governanca.
-2. Projetos de dados e machine learning: avaliacao de modelos, ensino e pipelines.
-3. Projetos de saude digital: apenas demonstracoes seguras com dados sinteticos ou publicos.
-4. Projetos antigos: reaproveitados como laboratorios ou mantidos como historico.
+- [luiz](https://github.com/lhenriqueapontes/luiz) — AutoFin-AI
+- [JOKENPO](https://github.com/lhenriqueapontes/JOKENPO) — AgentOps Strategy Lab
 
 ## Contato
 
@@ -69,4 +70,4 @@ Este GitHub é organizado como um laboratório profissional: cada repositório t
 
 ## Nota
 
-Os projetos publicos usam dados sinteticos, datasets publicos ou exemplos didaticos. Materiais sensiveis, bases privadas e codigos proprietarios nao sao publicados neste perfil.
+Os projetos públicos usam dados sintéticos, datasets públicos ou exemplos didáticos. Materiais sensíveis, bases privadas e códigos proprietários não são publicados neste perfil.
